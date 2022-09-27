@@ -1,0 +1,75 @@
+#palabras{
+    visibility: hidden;
+}
+
+.cabezera-der{
+    margin-top: 30px;
+  flex-direction: column;
+}
+
+.div3{
+display: block;
+grid-column: 2/5;
+    height: 150px;
+
+}
+
+.peli1{
+    height: 80px;
+    width: 200px;
+    border: none;
+}
+
+.peli2{
+    height: 80px;
+    width: 200px;
+    border: none;
+}
+
+.peli3{
+visibility: hidden;
+
+}
+
+.peli4{
+visibility: hidden;
+
+}
+
+.peli5{
+    visibility: hidden;
+}
+
+.div5{
+display: block;
+grid-column: 2/5;
+    height: 150px;
+
+}
+
+.peli6{
+    height: 80px;
+    width: 200px;
+    border: none;
+}
+
+.peli7{
+    height: 80px;
+    width: 200px;
+    border: none;
+}
+.peli8{
+visibility: hidden;
+}
+
+.peli9{
+visibility: hidden;
+}
+
+.peli10{
+visibility: hidden;
+}
+
+
+
+
